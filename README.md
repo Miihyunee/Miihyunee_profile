@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Mi)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&animation=twinkling&text=Mi)
   
 </div>
 
