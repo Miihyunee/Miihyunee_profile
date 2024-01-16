@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-📚 Tech Stack
+📚 Tech Stack 📚
 
 <br/>
 <span align="center">
