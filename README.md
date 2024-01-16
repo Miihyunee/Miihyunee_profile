@@ -20,7 +20,8 @@
 📚 Tech Stack 📚
 
 <br/>
-<span align="center">
+<div style="display:flex; flex-direction:row;">
+  
 <!-- Java -->
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <!-- MySQL -->
@@ -32,7 +33,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</span>
+</div>
 
 <div align="center">
   
