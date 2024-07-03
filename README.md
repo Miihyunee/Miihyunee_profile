@@ -77,8 +77,8 @@ Version Control
 <br>
 
 ## 📧 Contact 📧
-<img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=GMail&logoColor=white">
-
+<a href="mailto:miihyun95@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=GMail&logoColor=white&link=miihyun95@gmail.com"/></a>
+<a href="https://www.notion.so/miihyunee/invite/5eb88ce464d63c2e458e9444ca8886291cb4cc3e"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/miihyunee/invite/5eb88ce464d63c2e458e9444ca8886291cb4cc3e"/></a>
 
 <div align="center">
   
